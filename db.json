@@ -1,57 +1,297 @@
 {
-"posts": [
-{
-"id": 3,
-"title": "hello"
-}
-],
-"po-sts": [
-{
-"id": 2,
-"title": "hello"
-}
-],
-"profile": {
-"name": "typicode"
-},
-"custombasegroups": {
-"Custom Base Groups" : {
-"custom group female 2-11" : {
-"Female 2-5" : {
-"id" : 123
-},
-"Female 6-8" : {
-"id" : 123
-},
-"Female 9-11" : {
-"id" : 123
-}
-},
-"custom group female 18-29 2+ Children" : {
-"Female 18-20" : {
-"id" : 123
-},
-"Female 21-24" : {
-"id" : 123
-},
-"Female 25-29" : {
-"id" : 123
-},
-"2+ Children" : {
-"id" : 123
-}
-},
-"custom group male 50-65+" : {
-"Male 50-54" : {
-"id" : 123
-},
-"Male 55-64" : {
-"id" : 123
-},
-"Male 65+" : {
-"id" : 123
-}
-}
-}
-}
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Tampa-St. Petersburg-Clearwater",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2964600
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Chicago",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 8688700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Washington, DC",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 5452100
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Providence-Warwick-Pawtucket",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1526000
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Houston DMA",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 6808000
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "West Palm Beach-Boca Raton",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1403100
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "St. Louis",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2545000
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Riverside-San Bernardino",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2343200
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Atlanta",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 5386400
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Indianapolis",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1722600
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Raleigh-Durham",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1765800
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Los Angeles",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 12502400
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Jacksonville",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1434800
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Nassau-Suffolk (Long Island)",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2681000
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Salt Lake City-Ogden-Provo",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2219800
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Minneapolis-St. Paul",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 3288700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Detroit",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 4155200
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "San Francisco",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 7314500
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Columbus, OH",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1857500
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Cincinnati",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2013900
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Cleveland",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1916700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Portland, OR",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2589500
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Charlotte-Gastonia-Rock Hill",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2570100
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Hartford-New Britain-Middletown",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1162900
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Denver-Boulder",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2993500
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Orlando",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2072200
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "San Jose",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1820700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Pittsburgh, PA",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2120700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Houston METRO",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 6539500
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Philadelphia",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 5010500
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Seattle-Tacoma",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 4265800
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Middlesex-Somerset-Union",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1632200
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Greensboro-Winston-Salem-High Point",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1412000
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "San Diego",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 3116600
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Baltimore",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2620900
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Norfolk-Virginia Beach-Newport News",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1529700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Phoenix",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 4068000
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Memphis",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1235500
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Sacramento",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2218100
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Miami-Ft. Lauderdale-Hollywood",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 4460800
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Boston",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 4669700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Dallas-Ft. Worth",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 6844000
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Austin",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2013600
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Milwaukee-Racine",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1641700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Kansas City",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1934700
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Nashville",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 1629400
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "San Antonio",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2331000
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "New York",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 17831900
+  },
+  {
+    "RPT_PERIOD_ABBR": "MAY19",
+    "SRVC_MKT_NAME": "Las Vegas",
+    "DEMO_NAME": "PERSONS 6+",
+    "POPULATION": 2095200
+  }
+
 }
