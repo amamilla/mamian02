@@ -1,20 +1,4 @@
 {
-"PPMMarketPops": [
-	"RPT_PERIOD_ABBR": {
-		"0": "MAY19",
-		"1": "MAY19"
-	},
-	"SRVC_MKT_NAME": {
-		"0": "Dallas-Ft. Worth",
-		"1": "Salt Lake City-Ogden-Provo"
-	},
-	"DEMO_NAME": {
-		"0": "PERSONS 6+",
-		"1": "PERSONS 6+"
-	},
-	"POPULATION": {
-		"0": 6844000.0,
-		"1": 2219800.0
-	}
+"PPMMarketPops": [{"RPT_PERIOD_ABBR":"MAY19","SRVC_MKT_NAME":"Orlando","DEMO_NAME":"PERSONS 6+","POPULATION":2072200.0},{"RPT_PERIOD_ABBR":"MAY19","SRVC_MKT_NAME":"Minneapolis-St. Paul","DEMO_NAME":"PERSONS 6+","POPULATION":3288700.0}
 ]
 }
