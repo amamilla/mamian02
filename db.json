@@ -1,4 +1,19 @@
-{
-"PPMMarketPops": [{"RPT_PERIOD_ABBR":"MAY19","SRVC_MKT_NAME":"Orlando","DEMO_NAME":"PERSONS 6+","POPULATION":2072200.0},{"RPT_PERIOD_ABBR":"MAY19","SRVC_MKT_NAME":"Minneapolis-St. Paul","DEMO_NAME":"PERSONS 6+","POPULATION":3288700.0}
-]
+{  
+    "employees": [
+                 {  
+                    "id":           1,
+                    "name":         "Admin",   
+                    "location":     "USA"
+                 },
+                 {  
+                    "id":           2,
+                    "name":         "User",   
+                    "location":     "USA"
+                 },
+                 {  
+                    "id":           3,
+                    "name":         "User2",   
+                    "location":     "USA"
+                 }
+    ]  
 }
