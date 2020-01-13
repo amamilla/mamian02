@@ -14,6 +14,36 @@
   "profile": {
     "name": "typicode"
   },
+  "myschema": {
+    "schema": {
+      "fields": [
+        {
+          "name": "index",
+          "type": "integer"
+        },
+        {
+          "name": "RPT_PERIOD_ABBR",
+          "type": "string"
+        },
+        {
+          "name": "SRVC_MKT_NAME",
+          "type": "string"
+        },
+        {
+          "name": "DEMO_NAME",
+          "type": "string"
+        },
+        {
+          "name": "POPULATION",
+          "type": "number"
+        }
+      ],
+      "primaryKey": [
+        "index"
+      ],
+      "pandas_version": "0.20.0"
+    }
+  },
   "custombasegroups": {
     "schema": {
       "fields": [
