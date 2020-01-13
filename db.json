@@ -21,11 +21,7 @@
         "name": "POPULATION",
         "type": "number"
       }
-    ],
-    "primaryKey": [
-      "index"
-    ],
-    "pandas_version": "0.20.0"
+    ]
   },
   "data": [
     {
