@@ -1,36 +1,16 @@
 {
-  "schema": {
-    "fields": [
-      {
-        "name": "RPT_PERIOD_ABBR",
-        "type": "string"
-      },
-      {
-        "name": "SRVC_MKT_NAME",
-        "type": "string"
-      },
-      {
-        "name": "DEMO_NAME",
-        "type": "string"
-      },
-      {
-        "name": "POPULATION",
-        "type": "number"
-      }
-    ]
-  },
-  "data": [
+  "PPMMarketPops": [
     {
-      "RPT_PERIOD_ABBR": "JUN19",
-      "SRVC_MKT_NAME": "Houston METRO",
+      "RPT_PERIOD_ABBR": "MAY19",
+      "SRVC_MKT_NAME": "Orlando",
       "DEMO_NAME": "PERSONS 6+",
-      "POPULATION": 6539500
+      "POPULATION": 2072200
     },
     {
-      "RPT_PERIOD_ABBR": "JUN19",
-      "SRVC_MKT_NAME": "Tampa-St. Petersburg-Clearwater",
+      "RPT_PERIOD_ABBR": "MAY19",
+      "SRVC_MKT_NAME": "Minneapolis-St. Paul",
       "DEMO_NAME": "PERSONS 6+",
-      "POPULATION": 2964600
+      "POPULATION": 3288700
     }
   ]
 }
