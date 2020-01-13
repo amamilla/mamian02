@@ -1,9 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "PPMMarketPops": [
+    {
+      "RPT_PERIOD_ABBR": "MAY19",
+      "SRVC_MKT_NAME": "Orlando",
+      "DEMO_NAME": "PERSONS 6+",
+      "POPULATION": 2072200
+    },
+    {
+      "RPT_PERIOD_ABBR": "MAY19",
+      "SRVC_MKT_NAME": "Minneapolis-St. Paul",
+      "DEMO_NAME": "PERSONS 6+",
+      "POPULATION": 3288700
+    }
+  ]
 }
