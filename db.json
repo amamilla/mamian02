@@ -8,52 +8,48 @@
   "profile": {
     "name": "typicode"
   },
-  "myschema": {
-    "schema": {
-      "fields": [
-        {
-          "name": "index",
-          "type": "integer"
-        },
-        {
-          "name": "RPT_PERIOD_ABBR",
-          "type": "string"
-        },
-        {
-          "name": "SRVC_MKT_NAME",
-          "type": "string"
-        },
-        {
-          "name": "DEMO_NAME",
-          "type": "string"
-        },
-        {
-          "name": "POPULATION",
-          "type": "number"
-        }
-      ],
-      "primaryKey": [
-        "index"
-      ],
-      "pandas_version": "0.20.0"
-    }
-  },
-  "mydata": {
-    "data": [
+  "schema": {
+    "fields": [
       {
-        "index": 0,
-        "RPT_PERIOD_ABBR": "JUN19",
-        "SRVC_MKT_NAME": "Houston METRO",
-        "DEMO_NAME": "PERSONS 6+",
-        "POPULATION": 6539500
+        "name": "index",
+        "type": "integer"
       },
       {
-        "index": 1,
-        "RPT_PERIOD_ABBR": "JUN19",
-        "SRVC_MKT_NAME": "Tampa-St. Petersburg-Clearwater",
-        "DEMO_NAME": "PERSONS 6+",
-        "POPULATION": 2964600
+        "name": "RPT_PERIOD_ABBR",
+        "type": "string"
+      },
+      {
+        "name": "SRVC_MKT_NAME",
+        "type": "string"
+      },
+      {
+        "name": "DEMO_NAME",
+        "type": "string"
+      },
+      {
+        "name": "POPULATION",
+        "type": "number"
       }
-    ]
-  }
+    ],
+    "primaryKey": [
+      "index"
+    ],
+    "pandas_version": "0.20.0"
+  },
+  "data": [
+    {
+      "index": 0,
+      "RPT_PERIOD_ABBR": "JUN19",
+      "SRVC_MKT_NAME": "Houston METRO",
+      "DEMO_NAME": "PERSONS 6+",
+      "POPULATION": 6539500
+    },
+    {
+      "index": 1,
+      "RPT_PERIOD_ABBR": "JUN19",
+      "SRVC_MKT_NAME": "Tampa-St. Petersburg-Clearwater",
+      "DEMO_NAME": "PERSONS 6+",
+      "POPULATION": 2964600
+    }
+  ]
 }
