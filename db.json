@@ -1,21 +1,18 @@
 {
   "PPMMarketPops": [
     {
-      "index": 0,
       "RPT_PERIOD_ABBR": "JUN19",
       "SRVC_MKT_NAME": "Houston METRO",
       "DEMO_NAME": "PERSONS 6+",
       "POPULATION": 6539500
     },
     {
-      "index": 1,
       "RPT_PERIOD_ABBR": "JUN19",
       "SRVC_MKT_NAME": "Tampa-St. Petersburg-Clearwater",
       "DEMO_NAME": "PERSONS 6+",
       "POPULATION": 2964600
     },
     {
-      "index": 2,
       "RPT_PERIOD_ABBR": "JUN19",
       "SRVC_MKT_NAME": "West Palm Beach-Boca Raton",
       "DEMO_NAME": "PERSONS 6+",
